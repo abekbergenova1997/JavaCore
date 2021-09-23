@@ -1,5 +1,7 @@
 package lesson2;
 
+//Бекбергенова Айгерим. домашнее задание по второму уроку
+
 class CustomException extends Exception {
     CustomException(String message) {
         super(message);
